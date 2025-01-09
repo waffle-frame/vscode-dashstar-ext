@@ -5,11 +5,9 @@ English | Русский
 
 **Dashstar** — is an all-in-one VS Code plugin that helps you manage your projects right from the editor, bringing together tools, data, and metrics so you can focus on development and minimize switching between apps.
 
----
-
 ## 🌟 **Features**
 
-Below is a list of expected features that will be implemented over time. Some of these will be removed, and some will be added, depending on the usefulness of the functionality.
+Below is a list of expected features that will be implemented over time. Some of these **will be** removed, and some **will be** added, **depending on the usefulness of the functionality**.
 
 ### 1. 🛠 **Local sandbox for development**️ *(in development)*
 
@@ -51,8 +49,6 @@ Diagnostics of the local environment and processes.
 
 A panel with the latest comments, tasks and changes in the project.
 Direct interaction with task trackers (e.g. Jira, Trello).
-
----
 
 ## 🛠️ Current development status
 
@@ -102,22 +98,16 @@ Submit a pull request:
 git push origin feature/my-feature  
 ```
 
----
-
 ## 🎉 Future plans
 
 - Expanding integrations (e.g. with Trello, Asana).
 - Support for custom APIs and webhooks.
 - Improving data visualization and graphs.
-
----
+- ❤️ Transfer the project to a full-fledged cloud platform so that you can access information without having a VSСode at hand.
 
 ## 📞 Contacts
 
 > [!TIP]
-> If you have questions or ideas:
->   GitHub Issue: https://github.com/waffle-frame/vscode-dashstar-ext/issues/new
+> If you have questions or ideas:  
+>   GitHub Issue: https://github.com/waffle-frame/vscode-dashstar-ext/issues/new  
 > We would be glad to receive your contribution! 🙌
-
-
-
